@@ -16,7 +16,7 @@ This package adds the editing of dynamic fields to the dialog for setting a tick
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
