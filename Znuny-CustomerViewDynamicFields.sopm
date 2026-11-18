@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="1.0">
     <Name>Znuny-CustomerViewDynamicFields</Name>
-    <Version>7.3.2</Version>
+    <Version>7.5.1</Version>
     <Framework>7.5.x</Framework>
     <Vendor>Znuny GmbH</Vendor>
     <URL>http://znuny.com/</URL>
     <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
     <Description Lang="en">Enables dynamic fields in dialog to set a ticket's customer (AgentTicketCustomer).</Description>
     <Description Lang="de">Ermöglicht Bearbeitung von dynamischen Feldern im Dialog zum Setzen des Ticket-Kunden (AgentTicketCustomer).</Description>
+    <ChangeLog Version="7.5.1" Date="2026-11-18 14:10:48 +0100">Initial release for Znuny 7.5.</ChangeLog>
     <ChangeLog Version="7.3.2" Date="2026-11-17 12:28:22 +0100">Updated Custom File.</ChangeLog>
     <ChangeLog Version="7.3.1" Date="2025-12-05 00:10:25 +0100">Initial release for Znuny 7.3.</ChangeLog>
     <ChangeLog Version="7.2.1" Date="2025-09-03 15:11:32 +0200">Initial release for Znuny 7.2.</ChangeLog>
